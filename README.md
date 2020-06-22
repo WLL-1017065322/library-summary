@@ -11,4 +11,5 @@
 - [java学习篇](doc/3-java学习篇.md)
 - [python学习篇](doc/4-python学习篇.md)
 - [unity3d学习篇](doc/5-unity3d学习篇.md)
-- [前端工具](doc/6-前端工具篇.md)
+- [前端学习篇](doc/6-前端学习篇.md)
+- [前端工具](doc/7-前端工具篇.md)
